@@ -1,1 +1,2 @@
-print('Hello, Git!')
+name = 'stanislav'
+print('Hello', name)
